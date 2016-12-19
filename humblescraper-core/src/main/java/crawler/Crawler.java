@@ -11,7 +11,7 @@ public class Crawler {
         this.scraper = scraper;
     }
 
-    public crawl(String initialTarget, ){
+    public void crawl(String initialTarget){
 
     }
 }
